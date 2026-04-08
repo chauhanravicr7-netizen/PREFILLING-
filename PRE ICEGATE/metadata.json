@@ -1,0 +1,5 @@
+{
+  "name": "CustomsVerify",
+  "description": "High-precision comprehensive document audit tool for Customs House Agents to verify entire ICEGATE checklists against source documents.",
+  "requestFramePermissions": []
+}
